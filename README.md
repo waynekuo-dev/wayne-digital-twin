@@ -2,7 +2,7 @@
 
 一個以 [OpenAI Agents SDK] 打造的對話式 AI，能以第一人稱回答關於 Wayne 的職涯背景、技能與專案經驗的問題。內建 **Evaluator-Optimizer** 把關機制，確保回答誠實、有事實根據，不會誇大或編造尚未具備的能力。
 
-## ✨ 特色
+## 特色
 
 - **第一人稱職涯分身**：以 Wayne 的口吻回答工作經歷、技能、專案相關問題。
 - **Evaluator-Optimizer 品質把關**：每個回答在送出前都會經過一個獨立的 Evaluator Agent 檢查是否違反誠信規則，不合格會自動重新生成一次。
@@ -11,7 +11,7 @@
 - **聯絡資訊蒐集**：訪客表達合作/求職意願並留下聯絡方式時，會自動記錄並推播通知。
 - **Gradio 網頁介面**：簡單易用的聊天介面。
 
-## 🏗️ 架構
+## 架構
 
 ```
 使用者訊息
@@ -30,7 +30,7 @@ Evaluator Agent（檢查是否違反誠信規則）
 - **Evaluator Agent**：依照同一份誠信規則，檢查回答內容與工具呼叫紀錄是否合規（輸出結構化的 `Evaluation`：`is_acceptable` / `feedback`）。
 - **Pushover 推播**：無法回答的問題、連續被打回的回答、留下聯絡方式的訪客，都會即時通知 Wayne。
 
-## 📁 專案結構
+## 專案結構
 
 ```
 digital_twin/
@@ -44,7 +44,7 @@ digital_twin/
 └── uv.lock
 ```
 
-## 🚀 快速開始
+## 快速開始
 
 ### 環境需求
 
@@ -87,7 +87,7 @@ uv run app.py
 
 啟動後於瀏覽器開啟 Gradio 提供的網址（預設 `http://127.0.0.1:7860`）即可開始對話。
 
-## 🛠️ 技術棧
+## 技術棧
 
 - [OpenAI Agents SDK](https://github.com/openai/openai-agents-python)
 - [Gradio](https://www.gradio.app/)
