@@ -93,7 +93,3 @@ uv run app.py
 - [Gradio](https://www.gradio.app/)
 - [Pydantic](https://docs.pydantic.dev/)
 - [Pushover](https://pushover.net/)（即時通知）
-
-## ⚠️ 使用限制
-
-此分身只回答與 Wayne 職涯、背景、技能、經驗相關的問題，對於離題內容會禮貌導回專業話題；遇到本人身分詢問時會誠實表明自己是 AI Digital Twin，而非本人。
