@@ -1,0 +1,73 @@
+【工作經歷】
+
+Gogoro Taiwan Limited｜工程師（Data Scientist 範疇）｜2019/11 - 至今
+- 自主開發基於 RAG 架構的失效分析知識庫原型（LangChain、Chroma、Llama 3.2），完成 demo 並驗證自然語言查詢歷史失效案例的技術可行性（後交接給 data team，未繼續深化為正式系統）
+- 透過統計分析電池健康狀態數據，設計特徵指標與分類閾值，開發規則式分類系統（Rule-based Classification），將回廠電池自動分類為可維修、二次應用或報廢
+- 應用統計建模方法，針對 6M+ 顆電池的 RMA 數據進行大規模分析，並建立 Weibull 可靠度模型，識別關鍵失效模式並進行故障預測與風險評估
+- 主導跨部門 RMA 數據監控平台（Data Analytics Platform）架構設計，整合 SPC 異常監控、可靠度建模與預測洞察功能
+- 開發電池交換歷史資料視覺化工具，獲 data team 採用並整合至團隊正式 dashboard
+- 運用統計分析方法對電池重工流程進行根因分析（Root Cause Analysis）
+
+台灣立凱電能科技股份有限公司｜助理工程師｜2018/04 - 2019/09
+- 參與鋰電池正極材料前驅體合成及材料表面改質，藉由電池材料特性鑑定及電化學特性測試改善實驗方法與配方調整
+
+行政院原子能委員會核能研究所｜助理研發師（研發替代役）｜2014/11 - 2017/09
+- 全釩液流電池專案：碳氈電極改質，取得專利 I616022（超音波震盪提升液流電池碳氈效能之方法）
+- 全固態薄膜鋰電池專案：類固態電解質薄膜開發，取得專利 I620370、I667829
+
+【學歷】
+國立臺灣科技大學 化學工程系(所) 碩士，2012/09 - 2014/06，研究鋰離子電池預置鋰技術，取得專利 I530009
+國立中興大學 化學工程系 學士，2008/09 - 2012/06
+
+【技能】
+程式語言：Python, SQL, PostgreSQL
+機器學習/AI：Machine Learning, Deep Learning, LLM 應用開發, RAG, LangChain, HuggingFace, Chroma, QLoRA, AI Agent, MCP, n8n
+數據分析：統計學, 統計品質管制(SPC), 可靠度建模(Weibull分析), Minitab操作
+數據視覺化：Plotly, Matplotlib, Seaborn, Streamlit, Gradio
+開發工具：Git, Docker
+雲端/部署：AWS（VPC/EC2/S3/RDS/IAM 已學完）, GCP（尚未開始）
+
+【語言能力】
+中文：母語
+英文：專業（TOEIC 990分）
+日文：初級（JLPT N4）
+
+【持續學習中的技能（重要：以下為誠實的進度紀錄，絕對不能誇大）】
+
+已完整上完的課程：
+- 大型語言模型LLM企業應用開發實戰班第三期（緯育TibaMe，講師：維元）
+- AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents（Ed Donner）— 複習中
+- AI Engineer Agentic Track: The Complete Agent & MCP Course（Ed Donner）— 複習中
+- AI Engineer Production Track: Deploy LLMs & Agents at Scale（Ed Donner）— 複習中
+- AI Builder: Create Agents, Voice Agents & Automations in n8n（Ed Donner）
+- AI Leader: Generative AI & Agentic AI for Leaders & Founders（Ed Donner）
+- 張維元｜RAG 精準搜尋實戰：打造能自己變準的 AI 搜尋系統 — 複習中
+- Complete Machine Learning & Data Science Bootcamp 2021（Andrei Neagoie & Daniel Bourke, Udemy）
+- AI資料科學家全方位學程（緯育TibaMe，含程式語言、資料庫、網路爬蟲、資料探勘、資料視覺化(含Power BI)、機器學習、影像辨識、深度學習、自然語言處理、智慧製造與醫療影像應用）
+- 深度學習PyTorch | 入門到實戰應用（緯育TibaMe）
+- AI 人工智能：機器學習（Machine Learning）理論到應用（Wilson Ren，完整涵蓋監督式學習/迴歸分類、集成學習AdaBoost/GradientBoosting/XGBoost、非監督式學習KMeans/HAC/DBSCAN/PCA、模型評估與正則化等核心觀念）
+- Claude Code 深度應用：打造 AI 時代百倍產能的工程師工作流（矽谷叔叔）
+- Docker 部署入門完全指南-圖片速學攻略（矽谷叔叔）
+- Minitab 官方證書：Essentials I/II、Statistical Quality Analysis、Introduction to Reliability
+
+進行中，尚未完成的課程（務必如實反映進度，不可誇大）：
+- AI 人工智能：深度學習（Deep Learning）從原理到實作（Wilson Ren）— 進行中，尚未上完
+- 圖解 AWS+GCP：雲端雙平台入門完全指南（矽谷叔叔）— AWS 部分已上完，GCP 部分尚未開始
+- 圖解 AWS：打造分散式雲端架構，流量再高也頂住！（矽谷叔叔）— 進行中
+- 雲端上的 Kubernetes｜容器化技術圖解入門指南（矽谷叔叔）— 進行中（僅本地端 MiniKube）
+- 掌握 Flask + FastAPI 框架（維元）— 已上完，複習鞏固中
+- 無痛入門 Django + Flask 網站框架（維元）— 已上完，複習鞏固中
+
+完全還沒開始的課程（絕對不能說已經在學或學過）：
+- 離散數學與演算法 (Python, JavaScript)（Wilson Ren）
+- 資料結構與演算法 (JavaScript)（Wilson Ren）
+- 線性代數 (Linear Algebra)（Wilson Ren）
+
+不放進技能描述、但知道內容的課程（性質偏基礎/泛用，非核心賣點）：
+- 2026 網頁全端開發、2026 Python全攻略（Wilson Ren）
+
+【求職目標】
+希望職稱：資料科學家 / AI工程師
+希望地點：台北市、新北市、桃園市
+希望產業：電子資訊/軟體/半導體相關業、一般製造業
+目前正在積極面試中，包括工業製造業導入 AI 應用的相關職缺。
